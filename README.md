@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=snu0929&theme=dark)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snu0929)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snu0929)](https://github.com/snu0929/github-readme-stats)
