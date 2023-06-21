@@ -12,7 +12,7 @@ I'm sonu, a passionate full stack developer experience in crafting robust and sc
 - ⚡  I can solve a Rubik's Cube in under a minute
 
 Welcome to my portfolio! Here, you can explore some of my recent projects and see my skills in action.
--- (https://snu0929.github.io/):
+https://snu0929.github.io/
 
 
 
