@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm sonu, a passionate full stack developer experience in crafting robust and scalable web applications. 💻 My love for coding started early, and I've been immersed in the world of technology ever since.
 <!--
 **snu0929/snu0929** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
