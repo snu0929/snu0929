@@ -16,7 +16,8 @@ Welcome to my portfolio! Here, you can explore some of my recent projects and wi
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snu0929&theme=light" alt="GitHub Streak Stats">
+ <img id="github-streak-stats"
+                            src="https://github-readme-streak-stats.herokuapp.com/?user=snu0929&theme=light" alt="github-streak-stats" />
   <img src="https://github-readme-stats.vercel.app/api?username=snu0929&show_icons=true&theme=dark" alt="GitHub Stats Card">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snu0929&theme=dark" alt="GitHub Top Languages">
 </div>
