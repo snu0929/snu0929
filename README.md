@@ -2,6 +2,12 @@
 
 I'm **Sonu**, a passionate full stack developer experienced in crafting robust and scalable web applications. 💻 My love for coding started early, and I've been immersed in the world of technology ever since.
 
+## Education
+- **Full Stack Web Development** - Masai School, Bangalore
+  - Full-Time Program: 11 am to 11 pm
+  - Acquired in-depth knowledge of web development technologies including HTML, CSS, JavaScript, ReactJS, Redux, Node.js, Express.js, MongoDB, and more.
+  - Developed e-commerce websites and an Uber clone app as part of hands-on projects.
+
 ## Skills and Technologies
 - **Languages:** HTML, CSS, JavaScript
 - **Frontend:** ReactJS, Redux
@@ -10,13 +16,10 @@ I'm **Sonu**, a passionate full stack developer experienced in crafting robust a
 - **Other Tools:** Git, REST APIs, Firebase
 
 ## Professional Experience
-- **Full Stack Web Developer at Masai School, Bangalore** (Full-Time, 11 am to 11 pm)
+- **Full Stack Web Developer at Masai School, Bangalore**
   - Developed e-commerce websites, providing seamless shopping experiences.
   - Built an Uber clone app, focusing on real-time tracking and user-friendly interface.
   - Collaborated with a dedicated team to meet project deadlines and deliver high-quality solutions.
-
-## Education
-- **Bachelor of Commerce (B.Com)** - Your University Name, Year of Completion
 
 ## Projects
 ### E-commerce Websites
@@ -41,7 +44,7 @@ Explore my projects and get a glimpse of what I've been working on.
 Feel free to reach out to me for collaboration, questions, or a friendly chat!
 
 - **LinkedIn:** [Sonu Kumar](https://www.linkedin.com/in/sonu-kumar-005827257/)
-- **Email:** your.email@example.com
+- **Email:** snu0929@gmail.com
 
 ## Fun Fact
 I can solve a Rubik's Cube in under a minute! 🧩
