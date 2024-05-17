@@ -1,12 +1,6 @@
-# Hi there! 👋
+# Hi there! 👋 
+A passionate full stack developer experienced in crafting robust and scalable web applications.love for coding started early, and  immersed in the world of technology ever since.
 
-I'm **Sonu**, a passionate full stack developer experienced in crafting robust and scalable web applications. 💻 My love for coding started early, and I've been immersed in the world of technology ever since.
-
-## Education and Approach
-- **Full Stack Web Development** - Masai School, Bangalore
-  - Full-Time Program: 11 am to 11 pm
-  - Acquired in-depth knowledge of web development technologies including HTML, CSS, JavaScript, ReactJS, Redux, Node.js, Express.js, MongoDB, and more.
-  - **Self-Taught Learning Advocate:** I'm also proficient in prompt engineering, enabling me to rapidly learn and adapt to new technologies independently.
 
 ## Skills and Technologies
 - **Languages:** HTML, CSS, JavaScript
@@ -15,11 +9,6 @@ I'm **Sonu**, a passionate full stack developer experienced in crafting robust a
 - **Database:** MongoDB
 - **Other Tools:** Git, REST APIs, Firebase
 
-## Professional Experience
-- **Full Stack Web Developer at Masai School, Bangalore**
-  - Developed e-commerce websites, providing seamless shopping experiences.
-  - Built an Uber clone app, focusing on real-time tracking and user-friendly interface.
-  - Collaborated with a dedicated team to meet project deadlines and deliver high-quality solutions.
 
 ## Projects
 ### E-commerce Websites
