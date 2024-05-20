@@ -1,5 +1,5 @@
 # Hi there! 👋 
-A passionate full stack developer experienced in crafting robust and scalable web applications.love for coding started early, and  immersed in the world of technology ever since.
+A passionate full stack developer experienced in crafting robust and scalable web applications.Love for coding started early, and  immersed in the world of technology ever since.
 
 
 ## Skills and Technologies
