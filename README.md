@@ -7,7 +7,7 @@ A passionate full stack developer experienced in crafting robust and scalable we
 - **Frontend:** ReactJS, Redux
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Other Tools:** Git, REST APIs, Firebase
+- **Other Tools:** Git, REST APIs, 
 
 
 ## Projects
